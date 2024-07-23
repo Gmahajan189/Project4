@@ -7,4 +7,3 @@ Feature Engineering: Create and select relevant features for the model.
 Model Development: Develop and train predictive models to estimate mobile phone prices.
 Model Evaluation: Evaluate the performance of the models using appropriate metrics.
 Model Tuning: Hyperparameter tuning to improve accuracy.
-Results Presentation: Present the findings and model performance.
