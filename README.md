@@ -3,7 +3,7 @@ In this project, I worked with a dataset that contains detailed information abou
 The following steps were performed on the dataset:
 Data Collection: Gather and clean the dataset.
 Data Exploration: Perform exploratory data analysis to understand the distribution and relationships between features.
-Feature Engineering: Create and select relevant features for the model.
+Feature Engineering: Create new features and select relevant features for the model.
 Model Development: Develop and train predictive models to estimate mobile phone prices.
 Model Evaluation: Evaluate the performance of the models using appropriate metrics.
 Model Tuning: Hyperparameter tuning to improve accuracy.
